@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1621618054 source:c:\users\amate\desktop\zsp\praca_domowa\praca_domowa\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"arc.h"
+	"line.h"
+	"figure.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
+1620561338 c:\users\amate\desktop\zsp\praca_domowa\praca_domowa\include\arc.h
+
+1620562692 source:c:\users\amate\desktop\zsp\praca_domowa\praca_domowa\src\arc.cpp
+	"arc.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
+1620461894 c:\users\amate\desktop\zsp\praca_domowa\praca_domowa\include\line.h
+	<iostream>
+
+1621599098 source:c:\users\amate\desktop\zsp\praca_domowa\praca_domowa\src\figure.cpp
+	"figure.h"
+	"arc.h"
+	"line.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<math.h>
+
+1621599069 c:\users\amate\desktop\zsp\praca_domowa\praca_domowa\include\figure.h
+	"arc.h"
+	"line.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1620470102 source:c:\users\amate\desktop\zsp\praca_domowa\praca_domowa\src\line.cpp
+	"line.h"
+	<iostream>
+	<math.h>
+
+1621618056 source:c:\users\bartek\desktop\praca_domowa\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"arc.h"
+	"line.h"
+	"figure.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
+1620561340 c:\users\bartek\desktop\praca_domowa\include\arc.h
+
+1620461896 c:\users\bartek\desktop\praca_domowa\include\line.h
+	<iostream>
+
+1621599070 c:\users\bartek\desktop\praca_domowa\include\figure.h
+	"arc.h"
+	"line.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1620562694 source:c:\users\bartek\desktop\praca_domowa\src\arc.cpp
+	"arc.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
+1621618408 source:c:\users\bartek\desktop\praca_domowa\src\figure.cpp
+	"figure.h"
+	"arc.h"
+	"line.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<math.h>
+
+1620470104 source:c:\users\bartek\desktop\praca_domowa\src\line.cpp
+	"line.h"
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621867230 source:c:\users\bartek\desktop\zad_domowe_b_ciupka\obliczanie_pola_i_momentow\main.c
+	<stdio.h>
+	<stdlib.h>
+

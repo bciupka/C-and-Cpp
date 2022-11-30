@@ -1,0 +1,56 @@
+    /*float s_P[2];
+    float m_P[2];
+    float e_P[2];
+
+    point(s_P,-10,-23);
+    point(e_P,-10,23);
+    line Line1(s_P,e_P);
+    Figura.add_poits(Line1.get_points_table(),Line1.get_tab_size());
+
+    point(s_P,-10,23);
+    point(m_P,0,23);
+    point(e_P,0,33);
+    arc Arc1(s_P,m_P,e_P,true);
+    Figura.add_poits(Arc1.get_points_table(),Arc1.get_tab_size());
+
+    point(s_P,0,33);
+    point(e_P,36,33);
+    line Line2(s_P,e_P);
+    Figura.add_poits(Line2.get_points_table(),Line2.get_tab_size());
+
+    point(s_P,36,33);
+    point(e_P,36,40);
+    line Line3(s_P,e_P);
+    Figura.add_poits(Line3.get_points_table(),Line3.get_tab_size());
+
+
+    point(s_P,36,40);
+    point(e_P,-14,40);
+    line Line4(s_P,e_P);
+    Figura.add_poits(Line4.get_points_table(),Line4.get_tab_size());
+
+    point(s_P,-14,40);
+    point(e_P,-14,-40);
+    line Line5(s_P,e_P);
+    Figura.add_poits(Line5.get_points_table(),Line5.get_tab_size());
+
+    point(s_P,-14,-40);
+    point(e_P,36,-40);
+    line Line6(s_P,e_P);
+    Figura.add_poits(Line6.get_points_table(),Line6.get_tab_size());
+
+    point(s_P,36,-40);
+    point(e_P,36,-33);
+    line Line7(s_P,e_P);
+    Figura.add_poits(Line7.get_points_table(),Line7.get_tab_size());
+
+    point(s_P,36,-33);
+    point(e_P,0,-33);
+    line Line8(s_P,e_P);
+    Figura.add_poits(Line8.get_points_table(),Line8.get_tab_size());
+
+    point(s_P,0,-33);
+    point(m_P,0,-23);
+    point(e_P,-10,-23);
+    arc Arc2(s_P,m_P,e_P);
+    Figura.add_poits(Arc2.get_points_table(),Arc2.get_tab_size());*/
